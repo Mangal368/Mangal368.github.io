@@ -5,3 +5,4 @@
         School-Mother's Pride Academy
              State-Manipur
              City-Bishnupur
+          
